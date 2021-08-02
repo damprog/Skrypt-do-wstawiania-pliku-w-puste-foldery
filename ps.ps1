@@ -13,7 +13,7 @@ else
 Pause
 
 
-$Path="C:\Users\Prezes\Desktop\testFolder"
+$Path="C:\Users\User\Desktop\Folder"
 
 
 Function Search-Empty-Dir($path)
